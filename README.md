@@ -4,4 +4,4 @@
 [Dry Bean Dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) from UCI Library
 
 ## Accuracy:
-(Accuracy table.png)
+[](Accuracy table.png)
