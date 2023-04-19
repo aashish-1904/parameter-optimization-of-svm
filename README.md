@@ -4,4 +4,4 @@
 [Dry Bean Dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) from UCI Library
 
 ## Accuracy:
-[Table](Accuracy table.png)
+[Table](https://github.com/aashish-1904/parameter-optimization-of-svm/blob/main/Accuracy%20table.png)
